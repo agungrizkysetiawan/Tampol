@@ -1,0 +1,57 @@
+/* CSS untuk font Poppins */
+.poppins-font {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen umum */
+body, h1, h2, h3, h4, h5, h6, p, a, ul, ol, li, table, th, td , i{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen form */
+input[type="text"], input[type="password"], input[type="email"], input[type="number"], input[type="tel"], input[type="url"], input[type="search"], input[type="date"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="color"], textarea, select {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen yang sering digunakan dalam konten */
+blockquote, pre, code, ins, del, sup, sub, abbr, acronym, address, cite, dfn, var, time, samp, kbd, mark {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen media */
+img, video, audio {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen kebijakan privasi */
+article, aside, nav, section, figure, figcaption, header, footer, main {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen bantuan aksesibilitas */
+abbr[title], dfn[title], mark, meter, time[datetime], progress {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen yang memerlukan perhatian khusus */
+samp, kbd, mark, q, bdi, bdo {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen yang menunjukkan pesan status */
+output, summary, details, legend {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Menggunakan class poppins-font untuk elemen-elemen yang kurang umum digunakan */
+fieldset, label, button, input[type="submit"], input[type="reset"], input[type="button"], summary, details, legend {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.content-header, .header-section, .row, .help-block {
+    font-family: 'Poppins', sans-serif !important;   
+}
+
+#page-content {
+    font-family: 'Poppins', sans-serif !important;     
+}
